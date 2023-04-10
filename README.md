@@ -17,11 +17,8 @@ A telegram client to send chat gpt messages on a list of user.
 
 - [Telegram](https://core.telegram.org/api)
 
-# Youtube video: 
-- (https://youtu.be/)
-
 # Medium Article:
-- (https://medium.com/@
+- (https://medium.com/@samueleguarnaccia/create-your-own-telegram-client-with-chatgpt-message-generation-in-a-few-lines-of-pythons-codes-dc521e0951fc)
 
 # How to use:
     - Set the following variables:
@@ -31,6 +28,7 @@ A telegram client to send chat gpt messages on a list of user.
         - TELEGRAM_PHONE
     
     then you can run:
-    ```
-        python3 telegramSenderGPT.py
-    ```
+    
+```
+    python3 telegramSenderGPT.py
+```
