@@ -27,8 +27,13 @@ A telegram client to send chat gpt messages on a list of user.
         - TELEGRAM_API_HASH
         - TELEGRAM_PHONE
     
-    then you can run:
+    then to run the client, type on the terminal:
     
 ```
-    python3 telegramSenderGPT.py
+    python3 client.py
+```
+otherwise to run the bot, type:
+
+```
+    python3 bot.py
 ```
