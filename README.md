@@ -1,8 +1,8 @@
 # telegramSenderGPT
 
 Two use cases:
-A telegram client to send chat gpt messages on a list of user. 
-A bot to generate chat gpt messages on telegram.
+- A telegram client to send chat gpt messages on a list of user. 
+- A bot to generate chat gpt messages on telegram.
 
 # Installation Requirements:
 
