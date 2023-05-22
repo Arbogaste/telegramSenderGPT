@@ -1,11 +1,14 @@
 # telegramSenderGPT
+
 A telegram client to send chat gpt messages on a list of user. 
+A bot to generate chat gpt messages on telegram.
 
 # Installation Requirements:
 
 ```
-    pip install openai telethon 
+    pip install openai telethon pyTelegramBotAPI
 ```
+
 # Registration Requirements:
 - [OpenAI](https://beta.openai.com/)
 - [Telegram](https://my.telegram.org/auth)
@@ -14,6 +17,7 @@ A telegram client to send chat gpt messages on a list of user.
 
 - [OpenAI](https://beta.openai.com/docs/api-reference/introduction)
 - [Telethon](https://docs.telethon.dev/en/latest/)
+- [PyTelegramBotAPI](https://pytba.readthedocs.io/en/latest/index.html)
 
 - [Telegram](https://core.telegram.org/api)
 
@@ -26,6 +30,7 @@ A telegram client to send chat gpt messages on a list of user.
         - TELEGRAM_API_ID
         - TELEGRAM_API_HASH
         - TELEGRAM_PHONE
+        - TELEGRAM_BOT_TOKEN
     
     then to run the client, type on the terminal:
     

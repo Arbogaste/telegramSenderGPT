@@ -15,7 +15,7 @@ def help(message):
 
 @bot.message_handler(commands=['info'])
 def info(message):
-    bot.reply_to(message, "I am a simple Telegram bot created using the python-telegram-bot library.")
+    bot.reply_to(message, "I am a simple Telegram bot created using the python-telegram-bot library")
 
 @bot.message_handler(commands=['status'])
 def status(message):
